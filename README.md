@@ -8,14 +8,13 @@ to full-stack financial platforms. I'm all about turning ideas into working syst
 
 ## What I'm working on and learning
 
-* 🔭 Currently building **doc-qual** — an OCR evaluation pipeline with PaddleOCR, WER/CRR metrics, and document quality scoring
 * 🌱 Expanding skills in **LangGraph, multi-agent systems, vector databases, and LLM fine-tuning**
 * 👯 Interested in collaborating on **open-source AI/ML tools, RAG systems, or FastAPI backends**
 * 🤝 Seeking roles in **AI/ML Engineering | Backend Development | GenAI pipelines**
 * 👨‍💻 All my projects are here 👉 [github.com/lokesh046](https://github.com/lokesh046?tab=repositories)
 * 💬 Ask me about **Python, FastAPI, LangChain, RAG, OCR, or anything AI/ML**
-* 📫 Reach me at **your@email.com**
-* 📄 [My Resume](#) ← add your link
+* 📫 Reach me at **lokeshlearn1@gmail.com**
+* 📄 [My Resume](https://drive.google.com/file/d/1lWdsMdMwDQbiPstK_MCenPnbtvUbwFif/view?usp=sharing) ← add your link
 * ⚡ Fun fact: I debug faster at midnight than at noon, don't ask why 🌙
 
 ---
