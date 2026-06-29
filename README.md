@@ -14,7 +14,7 @@ to full-stack financial platforms. I'm all about turning ideas into working syst
 * 👨‍💻 All my projects are here 👉 [github.com/lokesh046](https://github.com/lokesh046?tab=repositories)
 * 💬 Ask me about **Python, FastAPI, LangChain, RAG, OCR, or anything AI/ML**
 * 📫 Reach me at **lokeshlearn1@gmail.com**
-* 📄 [My Resume]([https://drive.google.com/file/d/1lWdsMdMwDQbiPstK_MCenPnbtvUbwFif/view?usp=sharing](https://drive.google.com/file/d/1sZ_CoOQLJ4WhpaUqxUeIoOEpcvfYlpSV/view?usp=drive_link)) ← add your link
+* 📄 [My Resume](https://drive.google.com/file/d/1sZ_CoOQLJ4WhpaUqxUeIoOEpcvfYlpSV/view?usp=drive_link) ← add your link
 * ⚡ Fun fact: I debug faster at midnight than at noon, don't ask why 🌙
 
 ---
